@@ -1,0 +1,8 @@
+{
+  "name": "TimFrancis Social",
+  "description": "The revolutionary social ecosystem combining messaging, content discovery, and professional networking in one seamless experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
